@@ -199,13 +199,13 @@
     "@stylelint/prettier-config": "^3.0.0",
     "@stylelint/remark-preset": "^5.0.0",
     "@types/balanced-match": "^1.0.4",
-    "@types/css-tree": "^2.3.4",
+    "@types/css-tree": "^2.3.7",
     "@types/debug": "^4.1.12",
     "@types/file-entry-cache": "^5.0.4",
     "@types/global-modules": "^2.0.2",
     "@types/globjoin": "^0.1.2",
     "@types/imurmurhash": "^0.1.4",
-    "@types/micromatch": "^4.0.6",
+    "@types/micromatch": "^4.0.7",
     "@types/normalize-path": "^3.0.2",
     "@types/postcss-less": "^4.0.6",
     "@types/postcss-resolve-nested-selector": "^0.1.3",
@@ -235,7 +235,7 @@
     "remark-cli": "^12.0.0",
     "rollup": "^4.6.0",
     "sugarss": "^4.0.1",
-    "typescript": "^5.3.2"
+    "typescript": "^5.4.5"
   },
   "engines": {
     "node": ">=18.12.0"
